@@ -13,7 +13,7 @@
 
 To clone this repository, use the following command:
 ```bash
-git clone <repository_url>
+git clone https://github.com/AysenurYrr/ComputerGraphics.git
 ```
 
 ## Usage
