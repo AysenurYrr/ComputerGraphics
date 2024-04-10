@@ -1,6 +1,6 @@
 # 3D model projected as 2D model 
 
-**3D Projection using any Graphics Librarys?**
+**Load 3D .obj model to 2D using Transform matrixes and represent rotating object model**
 
 ---
 

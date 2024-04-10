@@ -70,7 +70,7 @@ def draw_faces(faces, projected_points):
 clock = pygame.time.Clock()
 while True:
 
-    clock.tick(200)
+    clock.tick(10)
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
