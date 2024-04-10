@@ -4,7 +4,7 @@
 
 ---
 
-![random]()
+![](https://github.com/AysenurYrr/ComputerGraphics/blob/main/3DObjTransformation/20240410_173331.gif)
 
 :red_circle: Red colour represents faces
 :orange_circle: Orange Colour represents edges
