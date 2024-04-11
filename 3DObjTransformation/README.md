@@ -13,7 +13,7 @@
 
 To clone this repository, use the following command:
 ```bash
-git clone <repository_url>
+git clone https://github.com/AysenurYrr/ComputerGraphics.git
 ```
 
 ## Usage
@@ -25,5 +25,4 @@ python main.py teapot.obj
 *The Python code utilized leverages the "vertex" (v) and "face" (f) information from the .obj file. No shadowing or wb operations are performed.*
 
 Taking into account the sentence above, you can use different files with the .obj extension.
-
 
